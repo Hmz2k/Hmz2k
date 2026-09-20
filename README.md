@@ -15,11 +15,18 @@ Disse prosjektene er gjort for oppdragsgivere og er konfidensielle. Derfor ligge
 * **Sikkerhetsgjennomgang av nettplattform:** gikk gjennom kode, oppsett og database, og leverte en rapport med 17 funn sortert etter hva som haster mest.
 * **Quishing simulering:** testet hvordan tillit til QR koder kan utnyttes, og foreslo tiltak for bevisstgjøring og rutiner.
 
-## Verktøy
+## Ferdigheter
 
-**Sikkerhet:** Kali Linux, Nmap, OWASP ZAP, SQLmap, Nikto, Wireshark, Metasploit
-**Sky og drift:** Microsoft Entra, Azure, Docker, Kubernetes, HashiCorp Vault
-**Annet:** Linux, Bash, Python, SQL, PostgreSQL, Git
+* **Sikkerhetstesting:** kartlegging, sårbarhetsvurdering og Proof of Concept, med OWASP Top 10 som utgangspunkt
+* **Web og API sikkerhet:** testing av REST API og webapplikasjoner, blant annet injeksjon og feil i tilgangskontroll
+* **Tilgangsstyring:** RBAC og minste privilegium i Microsoft Entra, Kubernetes og Vault
+* **Håndtering av hemmeligheter:** lagring, tilgangsregler, tokens som utløper og passord som lages ved behov
+* **Sky og drift:** Docker, Kubernetes, Linux og grunnleggende Azure
+* **Nettverk og analyse:** kartlegging og trafikkanalyse med Nmap, Wireshark og tcpdump
+* **Risiko og rapportering:** vurdere hvor alvorlig et funn er, prioritere tiltak og skrive rapporter som både teknikere og ledere forstår
+* **Styring og regelverk:** sikkerhetsgjennomganger med utgangspunkt i ISO 27001 og GDPR
+* **Menneskelig risiko:** sosial manipulering, quishing og bevisstgjøring
+* **Programmering:** Python, Bash og SQL på grunnleggende nivå
 
 ## Kontakt
 
