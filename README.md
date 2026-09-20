@@ -1,8 +1,6 @@
 # Hamza Farah
 
-**Cybersikkerhet og skysikkerhet** · Masterstudent ved OsloMet
-
-Har funnet en kritisk sårbarhet (CVSS 9.8) i en autorisert API test, levert en sikkerhetsrapport med 17 funn for en nettplattform, og bygger egne labber med Vault og Kubernetes.
+Jeg har en bachelor i cybersikkerhet og tar nå master i nettskybaserte tjenester og operasjoner ved OsloMet. Det siste året har jeg jobbet med sikkerhetstesting og gjennomganger av nettplattformer. Det jeg har lært mest av, er at det å finne feilen ofte er den enkleste delen. Det vanskelige er å forklare den slik at noen faktisk får fikset den.
 
 ## Prosjekter her på GitHub
 
@@ -17,22 +15,6 @@ Disse prosjektene er gjort for oppdragsgivere og er konfidensielle. Derfor ligge
 * **Sikkerhetsgjennomgang av nettplattform:** gikk gjennom kode, oppsett og database, og leverte en rapport med 17 funn sortert etter hva som haster mest.
 * **Quishing simulering:** testet hvordan tillit til QR koder kan utnyttes, og foreslo tiltak for bevisstgjøring og rutiner.
 
-## Utdanning
-
-* Master i nettskybaserte tjenester og operasjoner, OsloMet (2026 til 2028)
-* Bachelor i cybersikkerhet, Høyskolen Kristiania (2023 til 2026)
-
-## Erfaring
-
-* Cybersikkerhetspraktikant, Copyleft Solutions AS (2026)
-* Sikkerhetsrådgiver (frivillig), Ung Plattform
-* Sikkerhetsvakt og vekter, Pro Sec Professional Security AS (2022 til nå)
-
-## Sertifiseringer
-
-* Microsoft Applied Skills: Identiteter og tilgang med Microsoft Entra (2026)
-* Pre Security, TryHackMe (2023)
-
 ## Verktøy
 
 **Sikkerhet:** Kali Linux, Nmap, OWASP ZAP, SQLmap, Nikto, Wireshark, Metasploit
@@ -41,4 +23,4 @@ Disse prosjektene er gjort for oppdragsgivere og er konfidensielle. Derfor ligge
 
 ## Kontakt
 
-[LinkedIn](https://www.linkedin.com/in/hamza-farah-507113298/) · farah2604@icloud.com
+[LinkedIn](https://www.linkedin.com/in/hamza-farah-507113298/)
