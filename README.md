@@ -1,6 +1,6 @@
 # Hamza Farah
 
-Jeg har en bachelor i cybersikkerhet og tar nå master i nettskybaserte tjenester og operasjoner ved OsloMet. Det siste året har jeg jobbet med sikkerhetstesting og gjennomganger av nettplattformer. Det jeg har lært mest av, er at det å finne feilen ofte er den enkleste delen. Det vanskelige er å forklare den slik at noen faktisk får fikset den.
+Jeg har en bachelor i cybersikkerhet og tar nå master i nettskybaserte tjenester og operasjoner ved OsloMet. Det siste året har jeg jobbet med sikkerhetstesting og gjennomganger av nettplattformer.
 
 ## Prosjekter her på GitHub
 
