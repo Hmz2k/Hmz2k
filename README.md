@@ -9,18 +9,18 @@
 
 </div>
 
-## 👤 Om meg
+## Om meg
 
 Jeg har en bachelor i cybersikkerhet og tar nå master i nettskybaserte tjenester og operasjoner. Det siste året har jeg jobbet med sikkerhetstesting og gjennomganger av nettplattformer. I tillegg jobber jeg med egne prosjekter på fritiden.
 
-## 🛠️ Prosjekter her på GitHub
+## Prosjekter her på GitHub
 
 | Prosjekt | Hva jeg gjorde | Verktøy |
 |:---|:---|:---|
 | [**vault-lab**](https://github.com/Hmz2k/vault-lab) | Fant og fikset to måter passord lekket på, og satte opp databasepassord som slettes av seg selv | Vault, PostgreSQL, Docker |
 | [**k8s-rbac-lab**](https://github.com/Hmz2k/k8s-rbac-lab) | Gikk fra full tilgang til bare det appen faktisk trenger | Kubernetes, kind, RBAC |
 
-## 🔒 Annet arbeid
+## Annet arbeid
 
 Disse prosjektene er gjort for oppdragsgivere og er konfidensielle. Derfor ligger verken kode, rapporter eller funn her på GitHub. Beskrivelsene under er holdt generelle, slik at ingen kunder eller systemer kan identifiseres.
 
@@ -28,7 +28,7 @@ Disse prosjektene er gjort for oppdragsgivere og er konfidensielle. Derfor ligge
 * **Sikkerhetsgjennomgang av nettplattform:** gikk gjennom kode, oppsett og database, og leverte en rapport med 17 funn sortert etter hva som haster mest.
 * **Quishing simulering:** testet hvordan tillit til QR koder kan utnyttes, og foreslo tiltak for bevisstgjøring og rutiner.
 
-## 🎯 Ferdigheter
+## Ferdigheter
 
 * **Sikkerhetstesting:** kartlegging, sårbarhetsvurdering og Proof of Concept, med OWASP Top 10 som utgangspunkt
 * **Web og API sikkerhet:** testing av REST API og webapplikasjoner, blant annet injeksjon og feil i tilgangskontroll
@@ -41,7 +41,7 @@ Disse prosjektene er gjort for oppdragsgivere og er konfidensielle. Derfor ligge
 * **Menneskelig risiko:** sosial manipulering, quishing og bevisstgjøring
 * **Programmering:** Python, Bash og SQL på grunnleggende nivå
 
-## 🧰 Verktøy
+## Verktøy
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
