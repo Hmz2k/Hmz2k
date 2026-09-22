@@ -11,7 +11,7 @@
 
 ## 👤 Om meg
 
-Jeg har en bachelor i cybersikkerhet og tar nå master i nettskybaserte tjenester og operasjoner ved OsloMet. Det siste året har jeg jobbet med sikkerhetstesting og gjennomganger av nettplattformer.
+Jeg har en bachelor i cybersikkerhet og tar nå master i nettskybaserte tjenester og operasjoner. Det siste året har jeg jobbet med sikkerhetstesting og gjennomganger av nettplattformer. I tillegg jobber jeg med egne prosjekter på fritiden.
 
 ## 🛠️ Prosjekter her på GitHub
 
