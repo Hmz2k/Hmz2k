@@ -19,6 +19,7 @@ Jeg har en bachelor i cybersikkerhet og tar nå master i nettskybaserte tjeneste
 |:---|:---|:---|
 | [**vault-lab**](https://github.com/Hmz2k/vault-lab) | Fant og fikset to måter passord lekket på, og satte opp databasepassord som slettes av seg selv | Vault, PostgreSQL, Docker |
 | [**k8s-rbac-lab**](https://github.com/Hmz2k/k8s-rbac-lab) | Gikk fra full tilgang til bare det appen faktisk trenger | Kubernetes, kind, RBAC |
+| [**detection-lab**](https://github.com/Hmz2k/detection-lab) | Fant fire angrep i Kubernetes mens de skjedde, skrev en egen regel for noe Falco ikke fanget, og fjernet falske varsler uten å skjule ekte angrep | Falco, Kubernetes, kind |
 
 ## Annet arbeid
 
